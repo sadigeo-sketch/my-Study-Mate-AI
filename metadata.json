@@ -1,0 +1,10 @@
+{
+  "name": "Study Mate AI",
+  "description": "AI Tutor, Universal Knowledge Engine, and Educational Assistant with multilingual tutoring, dynamic problem solving, scientific calculator, and interactive study tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
